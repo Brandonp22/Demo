@@ -13,11 +13,8 @@ curso de git y github
 * Hola
 * Mundo
 * Git cherry pick
-<<<<<<< HEAD
-=======
 * incluye ejemplos
 * Disponible
->>>>>>> readme-mejorado
 
 Mi readme para mi git demo.
 
