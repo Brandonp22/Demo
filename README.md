@@ -15,4 +15,8 @@ curso de git y github
 
 Mi readme para mi git demo.
 
+<<<<<<< HEAD
 ### Fin
+=======
+### Fin
+>>>>>>> 3e6b9645fcfc90ebd56bebe5105289043120a69f
