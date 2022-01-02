@@ -13,6 +13,7 @@ curso de git y github
 * Hola
 * Mundo
 * Git cherry pick
+* incluye ejemplos
 
 Mi readme para mi git demo.
 
